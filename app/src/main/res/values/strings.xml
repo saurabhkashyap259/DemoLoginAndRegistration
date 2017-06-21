@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DemoLoginAndRegistration</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="text_username">Username</string>
+    <string name="text_password">Password</string>
+    <string name="text_first_name">First Name</string>
+    <string name="text_last_name">Last Name</string>
+    <string name="text_email">Email</string>
+
+    <string name="text_this_field_is_required">This field is required</string>
+
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+
+    <string name="text_link_to_register">Link to register</string>
+    <string name="text_link_to_login">Link to login</string>
+</resources>
